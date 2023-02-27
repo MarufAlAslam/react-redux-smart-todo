@@ -1,4 +1,4 @@
-export const initialState = [
+const initialState = [
   {
     id: 1,
     title: "Todo 1",
@@ -12,3 +12,5 @@ export const initialState = [
     color: "green",
   },
 ];
+
+export default initialState;
